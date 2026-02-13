@@ -65,3 +65,6 @@ app.post("/proposal", (req, res) => {
 app.listen(5000, () => {
   console.log("Backend running on http://localhost:5000");
 });
+app.get("/", (req, res) => {
+  res.send("Backend is running 🚀");
+});
