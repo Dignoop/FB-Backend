@@ -1,0 +1,18 @@
+{
+  "users": [],
+  "services": [
+    {
+      "id": 1,
+      "title": "Frontend Website Development",
+      "skills": "HTML, CSS, JS, React",
+      "price": 8000
+    },
+    {
+      "id": 2,
+      "title": "UI/UX Design",
+      "skills": "Figma, Adobe XD",
+      "price": 6000
+    }
+  ],
+  "proposals": []
+}
